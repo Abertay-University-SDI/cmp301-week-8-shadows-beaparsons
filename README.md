@@ -1,8 +1,8 @@
 # CMP301_Shadows
 Starter project for CMP301. Shadow mapping.
 
-Name:
+Name:Bea Parsons
 
-Number:
+Number:2202436
 
 Outline of project:
