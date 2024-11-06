@@ -9,7 +9,8 @@ using namespace DirectX;
 
 
 class DepthShader : public BaseShader
-{
+{private:
+
 
 public:
 
@@ -23,4 +24,5 @@ private:
 
 private:
 	ID3D11Buffer* matrixBuffer;
+
 };
